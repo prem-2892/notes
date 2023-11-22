@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Meeting Notes",
+    "content": "Discuss project updates and deadlines.",
+    "background": "#6ccff6",
+    "timestamp": "2023-11-21T10:30:00"
+  },
+  {
+    "id": 2,
+    "title": "Shopping List",
+    "content": "Milk, eggs, bread, and vegetables.",
+    "background": "#ab81cd",
+    "timestamp": "2023-11-21T14:00:00"
+  },
+  {
+    "id": 3,
+    "title": "Ideas for App Features",
+    "content": "Brainstorm new features for the app.",
+    "background": "#ce84ad",
+    "timestamp": "2023-11-22T09:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Daily Goals",
+    "content": "Complete coding assignment, go for a run.",
+    "background": "#f7f0f5",
+    "timestamp": "2023-11-22T16:45:00"
+  }
+]
